@@ -5,3 +5,5 @@
 안녕하세요~
 
 admin
+
+login(admin, abcd1234)

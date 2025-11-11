@@ -1,2 +1,4 @@
 goodbye git
 welcome git
+
+이제는 우리가 수업이 끝날 시간~
